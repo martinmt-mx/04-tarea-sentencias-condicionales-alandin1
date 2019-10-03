@@ -1,0 +1,62 @@
+h1 {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+h2 {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 25px;
+    color: rgb(33, 105, 54);
+    background-color: rgba(236, 198, 127, 0.603);
+    height: 50px;
+    border: 10px solid rgba(133, 223, 106, 0.719) ; 
+    padding-top: 20px;
+    padding-left: 10px; 
+    margin-bottom: 15px;
+    border-radius: 25px;
+}
+h3 {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 20px;
+    color: rgb(33, 105, 54);
+    background-color: rgba(238, 208, 151, 0.726);
+    height: 50px;
+    border: 10px solid rgba(207, 241, 113, 0.815) ; 
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px; 
+    margin-bottom: 5px;
+    border-radius: 25px;
+}
+h4 {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+li, p, form, td, th {
+    font-family: 'Questrial', sans-serif;
+    font-size: 18px;
+    color: rgb(255, 255, 255)
+}
+table {
+    border-collapse: collapse;
+    border-color: rgb(133, 223, 106, 0.719);
+}
+body {
+    background-image: url(https://img.freepik.com/free-psd/tropical-foliage-background_53876-91352.jpg?size=626&ext=jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    padding: 5%;
+}
+.align {
+    display: inline-block;
+    position: relative;
+    bottom: 150px; left: 230px;
+} 
+a:visited{
+    color: rgb(243, 158, 102)
+}
+.table_centrar {
+    margin-left: 26.8%
+}
